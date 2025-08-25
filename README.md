@@ -1,6 +1,6 @@
-# RVDebloater
+# RVDebloater Artifact
 
-RVDebloater is a project to...
+Welcome to the artifact for the USENIX 2026 submission of our paper, titled **"RVDebloater: Mode-based Adaptive Firmware Debloating for Robotic Vehicles"**.
 
 ## Instructions
 
